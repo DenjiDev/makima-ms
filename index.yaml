@@ -3,7 +3,17 @@ entries:
   makima-ms:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-07-04T15:16:15.426067-03:00"
+    created: "2023-07-04T15:21:43.6883455-03:00"
+    description: A Helm chart for Makima Microservices
+    digest: 6a48ec3e0d16c88f0d82dfbc7ad9e56a70f9c742aec1743edec2ad1b8fa992f3
+    name: makima-ms
+    type: application
+    urls:
+    - https://denjidev.github.io/makima-ms/makima-ms-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-07-04T15:21:43.686286-03:00"
     description: A Helm chart for Makima Microservices
     digest: 38273449e87b8e62e96310d8c3244ca98a8c80c23817cd11e0ee4c9bf44122df
     name: makima-ms
@@ -13,7 +23,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-07-04T15:16:15.4231061-03:00"
+    created: "2023-07-04T15:21:43.6856923-03:00"
     description: A Helm chart for Makima Microservices
     digest: c3076cac8c729d04b132e29dbd38edc40ef6b4ac6cb80aa5d664f0110cecd17d
     name: makima-ms
@@ -23,7 +33,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-07-04T15:16:15.4161124-03:00"
+    created: "2023-07-04T15:21:43.6851729-03:00"
     description: A Helm chart for Makima Microservices
     digest: 2758954da8abb9285b8306fde56e079e939a87e21f6d96526da3b9b20b66d235
     name: makima-ms
@@ -33,7 +43,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-07-04T15:16:15.4096071-03:00"
+    created: "2023-07-04T15:21:43.6822258-03:00"
     description: A Helm chart for Makima Microservices
     digest: 4fd473a66a7ba26d9e5eac0141f110a4c35a06af61fcf0fdf6dd93a3eff136f1
     name: makima-ms
@@ -43,7 +53,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-07-04T15:16:15.4066273-03:00"
+    created: "2023-07-04T15:21:43.6801029-03:00"
     description: A Helm chart for Kubernetes
     digest: c77eb4711f40e0d8a1ef735d2a3fcd681162791300b9d1e9649549fa86377f79
     name: makima-ms
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://denjidev.github.io/makima-ms/makima-ms-0.1.0.tgz
     version: 0.1.0
-generated: "2023-07-04T15:16:15.4043066-03:00"
+generated: "2023-07-04T15:21:43.679094-03:00"
