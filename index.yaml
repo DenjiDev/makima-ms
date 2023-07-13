@@ -3,7 +3,7 @@ entries:
   makima-ms:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-07-13T16:40:18.8352159-03:00"
+    created: "2023-07-13T17:02:29.1614888-03:00"
     description: A Helm chart for Makima Microservices
     digest: 6a48ec3e0d16c88f0d82dfbc7ad9e56a70f9c742aec1743edec2ad1b8fa992f3
     name: makima-ms
@@ -13,7 +13,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-07-13T16:40:18.8347003-03:00"
+    created: "2023-07-13T17:02:29.1609841-03:00"
     description: A Helm chart for Makima Microservices
     digest: 38273449e87b8e62e96310d8c3244ca98a8c80c23817cd11e0ee4c9bf44122df
     name: makima-ms
@@ -23,7 +23,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-07-13T16:40:18.8341845-03:00"
+    created: "2023-07-13T17:02:29.1603897-03:00"
     description: A Helm chart for Makima Microservices
     digest: c3076cac8c729d04b132e29dbd38edc40ef6b4ac6cb80aa5d664f0110cecd17d
     name: makima-ms
@@ -33,7 +33,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-07-13T16:40:18.8336652-03:00"
+    created: "2023-07-13T17:02:29.1597799-03:00"
     description: A Helm chart for Makima Microservices
     digest: 2758954da8abb9285b8306fde56e079e939a87e21f6d96526da3b9b20b66d235
     name: makima-ms
@@ -43,7 +43,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-07-13T16:40:18.8326217-03:00"
+    created: "2023-07-13T17:02:29.1587449-03:00"
     description: A Helm chart for Makima Microservices
     digest: 4fd473a66a7ba26d9e5eac0141f110a4c35a06af61fcf0fdf6dd93a3eff136f1
     name: makima-ms
@@ -53,7 +53,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-07-13T16:40:18.8321156-03:00"
+    created: "2023-07-13T17:02:29.1582263-03:00"
     description: A Helm chart for Kubernetes
     digest: c77eb4711f40e0d8a1ef735d2a3fcd681162791300b9d1e9649549fa86377f79
     name: makima-ms
@@ -63,7 +63,17 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-07-13T16:40:18.8309621-03:00"
+    created: "2023-07-13T17:02:29.1577217-03:00"
+    description: A Helm chart for Makima Microservices
+    digest: 708816ab8c6f8d90e644d8a2ebbea2ff649443d8034d4ceb17de1d1bb6e689ca
+    name: makima-ms
+    type: application
+    urls:
+    - https://denjidev.github.io/makima-ms/makima-ms-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-07-13T17:02:29.156113-03:00"
     description: A Helm chart for Makima Microservices
     digest: 3e5b8717370159f7486edbd3f9c0335e4b94be6758ca1f3f502be536fb4098f6
     name: makima-ms
@@ -73,7 +83,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-07-13T16:40:18.8294032-03:00"
+    created: "2023-07-13T17:02:29.1555967-03:00"
     description: A Helm chart for Makima Microservices
     digest: 52f2558e99ba0162883d66baca2b0f9ca20376679cb952a61c4a7dcc6072c61c
     name: makima-ms
@@ -83,7 +93,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-07-13T16:40:18.8288853-03:00"
+    created: "2023-07-13T17:02:29.155077-03:00"
     description: A Helm chart for Makima Microservices
     digest: 33fddf801472de591c75d58a26cd1f5cb14e7c807ea55d32cfe9132f2895d55f
     name: makima-ms
@@ -93,7 +103,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-07-13T16:40:18.8278592-03:00"
+    created: "2023-07-13T17:02:29.1545421-03:00"
     description: A Helm chart for Makima Microservices
     digest: de2d5059b6e5585b2cbb570221ab290f8634eed9f5e429576b3eba12d6874b76
     name: makima-ms
@@ -101,4 +111,4 @@ entries:
     urls:
     - https://denjidev.github.io/makima-ms/makima-ms-0.0.1.tgz
     version: 0.0.1
-generated: "2023-07-13T16:40:18.8267231-03:00"
+generated: "2023-07-13T17:02:29.1535029-03:00"
